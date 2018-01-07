@@ -1,0 +1,39 @@
+html, body {
+    background-color: #EEE;
+	position: relative;
+	margin: 0px;
+	padding: 0px;
+}
+
+h1 {
+    font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
+	text-align: center;
+	font-weight: lighter;
+	font-size: 2em;
+	color: #FFF;
+	padding: 0px;
+	margin: 0px;
+} 
+
+p {
+	padding-left: 20px;
+	font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
+	text-align: center;
+}
+
+label, input{
+	font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
+	text-align: center;
+	cursor: pointer;
+	color: #FFF;
+}
+
+select{
+	font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
+}
+
+#topbar{
+	text-align: center;
+	background-color: #242;
+	padding: 2%;
+}
