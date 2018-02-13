@@ -21,17 +21,6 @@ p {
 	text-align: center;
 }
 
-label, input{
-	font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
-	text-align: center;
-	cursor: pointer;
-	color: #FFF;
-}
-
-select{
-	font-family: "Segoe UI", Roboto, Ubuntu, sans-serif;
-}
-
 #topbar{
 	text-align: center;
 	background-color: #242;
