@@ -13,8 +13,16 @@ function roll(){
     document.getElementById("total").innerHTML = "";
     diceSum = 0;
 
+    var numberToRoll = document.getElementById("numberToRoll").value;
+    //console.log(numberToRoll);
+
+    if (numberToRoll < 0) {
+        numberToRoll = numberToRoll * -1;
+        document.getElementById("numberToRoll").value = numberToRoll;
+    }
+
     //Iterate through and generate dice rolls
-    for(let i=0; i<=3; i++){
+    for(let i = 0; i < numberToRoll; i++){
         diceResults[i] = dice();
         document.getElementById("roll").innerHTML += diceResults[i];
         //console.log(diceResults[i]);
