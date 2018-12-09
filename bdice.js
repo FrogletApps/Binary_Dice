@@ -14,7 +14,7 @@ function roll(){
     diceSum = 0;
 
     //Iterate through and generate dice rolls
-    for(i=0; i<=3; i++){
+    for(let i=0; i<=3; i++){
         diceResults[i] = dice();
         document.getElementById("roll").innerHTML += diceResults[i];
         //console.log(diceResults[i]);
