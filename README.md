@@ -1,3 +1,3 @@
 # Binary Dice
 
-I initially coded this late one night after watching [this] (https://www.youtube.com/watch?v=WZskjLq040I) YouTube video, the Royal Game of Ur uses binary dice and I decided I'd try and code them.  I had intended to go a bit further, but I managed to completely forget about it and only stumbled across this code again months later!  Maybe I'll give it a better shot at some point, but in the meantime here's some binary dice.
+I initially coded this late one night after watching [this](https://www.youtube.com/watch?v=WZskjLq040I) YouTube video, the Royal Game of Ur uses binary dice and I decided I'd try and code them.  I had intended to go a bit further, but I managed to completely forget about it and only stumbled across this code again months later!  Maybe I'll give it a better shot at some point, but in the meantime here's some binary dice.
